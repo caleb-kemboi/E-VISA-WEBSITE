@@ -1,0 +1,9 @@
+{
+"name": "phpunit/php-unit",
+"require": {
+    "php": ">5.4.12",
+    "phpunit/phpunit": "3.7.28",
+        "mpdf/mpdf": "^8.0",
+        "phpmailer/phpmailer": "^6.0"
+}
+}
